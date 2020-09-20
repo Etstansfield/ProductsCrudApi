@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "UCuGDDtBntmYopqoonKeDjdfM7czK+3Ei7fghdqesThPwxKN7U7XTwTRaii+Rg/SB7rzGuHGogtKyyPrCB+DFw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Edward\\source\\repos\\ProductsCrudApi\\ProductsCrudApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Edward\\.nuget\\packages\\mysqlconnector\\1.0.1\\mysqlconnector.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
