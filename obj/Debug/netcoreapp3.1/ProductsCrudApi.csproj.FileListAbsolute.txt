@@ -20,3 +20,5 @@ C:\Users\Edward\source\repos\ProductsCrudApi\obj\Debug\netcoreapp3.1\ProductsCru
 C:\Users\Edward\source\repos\ProductsCrudApi\obj\Debug\netcoreapp3.1\ProductsCrudApi.dll
 C:\Users\Edward\source\repos\ProductsCrudApi\obj\Debug\netcoreapp3.1\ProductsCrudApi.pdb
 C:\Users\Edward\source\repos\ProductsCrudApi\obj\Debug\netcoreapp3.1\ProductsCrudApi.genruntimeconfig.cache
+C:\Users\Edward\source\repos\ProductsCrudApi\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.json
+C:\Users\Edward\source\repos\ProductsCrudApi\bin\Debug\netcoreapp3.1\Properties\serviceDependencies.local.json
